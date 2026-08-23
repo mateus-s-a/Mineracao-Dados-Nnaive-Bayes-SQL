@@ -5,7 +5,7 @@ Implementação da **Atividade Prática 1 — Algoritmo Classificador Bayesiano*
 * **Lorena Strobel Campos**
 * **Mateus de Souza Arruda**
 
-**Professor:** Antônio Braz
+**Professor:** Orlando Júnior
 
 **Data de entrega:** 28/08/2026
 
