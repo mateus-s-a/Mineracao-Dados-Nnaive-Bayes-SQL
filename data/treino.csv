@@ -1,0 +1,121 @@
+metodo_pagamento,proporcao_frete,prazo_entrega,historico_cliente,dispositivo_compra,horario_compra,tipo_autenticacao,cancelou
+Assíncrono (Boleto),Alta,Longo,Risco,Mobile Web,Noturno,Visitante,Sim
+Síncrono (Cartão),Baixa,Expresso,Impecável,Mobile App,Comercial,Conta Antiga,Não
+Síncrono (Cartão),Baixa,Longo,Aceitável,Mobile App,Noturno,Visitante,Não
+Assíncrono (Boleto),Alta,Longo,Risco,Mobile Web,Madrugada,Visitante,Sim
+Síncrono (Cartão),Alta,Padrão,Risco,Mobile Web,Noturno,Conta Antiga,Não
+Síncrono (Cartão),Baixa,Padrão,Aceitável,Mobile App,Comercial,Conta Antiga,Não
+Síncrono (Cartão),Baixa,Expresso,Impecável,Desktop,Comercial,Conta Antiga,Não
+Assíncrono (Boleto),Média,Longo,Risco,Mobile Web,Noturno,Visitante,Sim
+Síncrono (Pix),Média,Expresso,Impecável,Mobile Web,Madrugada,Nova Conta,Não
+Síncrono (Pix),Alta,Longo,Risco,Mobile App,Madrugada,Nova Conta,Sim
+Assíncrono (Boleto),Média,Longo,Risco,Mobile App,Noturno,Visitante,Sim
+Assíncrono (Boleto),Alta,Longo,Risco,Mobile Web,Madrugada,Nova Conta,Sim
+Síncrono (Pix),Baixa,Padrão,Impecável,Desktop,Comercial,Conta Antiga,Não
+Síncrono (Pix),Alta,Longo,Risco,Mobile Web,Noturno,Visitante,Sim
+Síncrono (Cartão),Média,Padrão,Aceitável,Desktop,Comercial,Conta Antiga,Não
+Síncrono (Pix),Baixa,Expresso,Aceitável,Mobile Web,Comercial,Visitante,Sim
+Assíncrono (Boleto),Baixa,Expresso,Risco,Mobile App,Madrugada,Visitante,Não
+Síncrono (Pix),Baixa,Longo,Risco,Mobile Web,Comercial,Conta Antiga,Não
+Assíncrono (Boleto),Média,Padrão,Risco,Mobile App,Comercial,Visitante,Não
+Síncrono (Cartão),Baixa,Expresso,Impecável,Mobile App,Comercial,Nova Conta,Não
+Síncrono (Cartão),Baixa,Expresso,Risco,Mobile App,Noturno,Nova Conta,Não
+Síncrono (Cartão),Alta,Longo,Risco,Desktop,Comercial,Nova Conta,Sim
+Síncrono (Cartão),Baixa,Expresso,Aceitável,Mobile Web,Noturno,Visitante,Não
+Síncrono (Cartão),Média,Expresso,Aceitável,Desktop,Comercial,Nova Conta,Não
+Síncrono (Cartão),Baixa,Padrão,Aceitável,Mobile App,Comercial,Nova Conta,Sim
+Síncrono (Cartão),Baixa,Padrão,Impecável,Desktop,Comercial,Conta Antiga,Não
+Assíncrono (Boleto),Alta,Longo,Risco,Mobile App,Madrugada,Visitante,Sim
+Síncrono (Pix),Alta,Longo,Risco,Mobile App,Madrugada,Visitante,Não
+Síncrono (Pix),Baixa,Expresso,Impecável,Desktop,Comercial,Conta Antiga,Não
+Síncrono (Cartão),Baixa,Expresso,Impecável,Mobile App,Comercial,Nova Conta,Sim
+Síncrono (Cartão),Baixa,Expresso,Impecável,Mobile App,Noturno,Conta Antiga,Não
+Síncrono (Pix),Alta,Padrão,Risco,Mobile App,Noturno,Visitante,Sim
+Síncrono (Cartão),Baixa,Padrão,Impecável,Desktop,Noturno,Conta Antiga,Não
+Síncrono (Cartão),Baixa,Padrão,Aceitável,Mobile Web,Noturno,Visitante,Sim
+Assíncrono (Boleto),Alta,Longo,Aceitável,Mobile App,Madrugada,Nova Conta,Sim
+Síncrono (Cartão),Baixa,Padrão,Impecável,Mobile App,Noturno,Conta Antiga,Não
+Síncrono (Pix),Média,Expresso,Impecável,Desktop,Noturno,Nova Conta,Sim
+Síncrono (Pix),Baixa,Expresso,Risco,Mobile App,Noturno,Conta Antiga,Sim
+Síncrono (Pix),Baixa,Longo,Impecável,Mobile App,Comercial,Nova Conta,Não
+Síncrono (Pix),Média,Padrão,Impecável,Desktop,Comercial,Conta Antiga,Não
+Síncrono (Pix),Média,Expresso,Impecável,Desktop,Noturno,Conta Antiga,Sim
+Assíncrono (Boleto),Alta,Longo,Risco,Mobile App,Madrugada,Nova Conta,Sim
+Assíncrono (Boleto),Alta,Longo,Risco,Mobile Web,Madrugada,Visitante,Não
+Síncrono (Pix),Alta,Longo,Risco,Mobile Web,Madrugada,Visitante,Sim
+Assíncrono (Boleto),Alta,Longo,Risco,Mobile App,Noturno,Visitante,Sim
+Assíncrono (Boleto),Alta,Padrão,Aceitável,Mobile Web,Madrugada,Visitante,Sim
+Síncrono (Cartão),Média,Expresso,Impecável,Mobile App,Comercial,Conta Antiga,Não
+Síncrono (Cartão),Baixa,Padrão,Impecável,Desktop,Comercial,Conta Antiga,Sim
+Assíncrono (Boleto),Alta,Padrão,Risco,Mobile App,Madrugada,Nova Conta,Sim
+Síncrono (Cartão),Baixa,Expresso,Impecável,Desktop,Noturno,Conta Antiga,Não
+Assíncrono (Boleto),Média,Padrão,Impecável,Mobile App,Noturno,Nova Conta,Sim
+Síncrono (Pix),Alta,Longo,Risco,Mobile Web,Madrugada,Visitante,Não
+Síncrono (Cartão),Baixa,Expresso,Impecável,Mobile App,Noturno,Nova Conta,Sim
+Síncrono (Cartão),Baixa,Padrão,Impecável,Mobile App,Comercial,Nova Conta,Não
+Assíncrono (Boleto),Média,Longo,Risco,Mobile App,Madrugada,Visitante,Sim
+Assíncrono (Boleto),Baixa,Expresso,Aceitável,Mobile App,Madrugada,Visitante,Sim
+Síncrono (Cartão),Baixa,Expresso,Aceitável,Desktop,Noturno,Conta Antiga,Não
+Assíncrono (Boleto),Alta,Padrão,Risco,Mobile Web,Noturno,Nova Conta,Sim
+Síncrono (Cartão),Baixa,Expresso,Aceitável,Mobile App,Comercial,Nova Conta,Não
+Assíncrono (Boleto),Baixa,Padrão,Impecável,Mobile Web,Madrugada,Conta Antiga,Não
+Assíncrono (Boleto),Média,Padrão,Aceitável,Mobile Web,Madrugada,Nova Conta,Não
+Síncrono (Cartão),Baixa,Expresso,Impecável,Desktop,Comercial,Nova Conta,Não
+Síncrono (Cartão),Baixa,Expresso,Impecável,Desktop,Noturno,Nova Conta,Não
+Síncrono (Pix),Baixa,Expresso,Impecável,Desktop,Noturno,Nova Conta,Não
+Assíncrono (Boleto),Alta,Longo,Risco,Mobile Web,Noturno,Visitante,Não
+Assíncrono (Boleto),Alta,Longo,Aceitável,Mobile Web,Noturno,Visitante,Sim
+Síncrono (Pix),Baixa,Expresso,Impecável,Mobile App,Comercial,Nova Conta,Não
+Síncrono (Pix),Baixa,Padrão,Risco,Mobile App,Madrugada,Nova Conta,Sim
+Assíncrono (Boleto),Alta,Expresso,Risco,Mobile App,Madrugada,Visitante,Sim
+Síncrono (Cartão),Baixa,Expresso,Aceitável,Desktop,Noturno,Nova Conta,Não
+Síncrono (Pix),Baixa,Expresso,Impecável,Mobile App,Noturno,Conta Antiga,Não
+Síncrono (Cartão),Média,Expresso,Aceitável,Mobile App,Comercial,Nova Conta,Não
+Síncrono (Cartão),Baixa,Padrão,Impecável,Mobile App,Comercial,Conta Antiga,Não
+Assíncrono (Boleto),Alta,Padrão,Impecável,Mobile App,Madrugada,Nova Conta,Não
+Síncrono (Pix),Baixa,Padrão,Impecável,Mobile App,Noturno,Nova Conta,Não
+Síncrono (Cartão),Baixa,Padrão,Aceitável,Desktop,Comercial,Conta Antiga,Não
+Síncrono (Cartão),Baixa,Expresso,Aceitável,Desktop,Comercial,Conta Antiga,Não
+Assíncrono (Boleto),Média,Padrão,Risco,Mobile Web,Noturno,Conta Antiga,Não
+Síncrono (Cartão),Média,Padrão,Impecável,Desktop,Comercial,Conta Antiga,Não
+Síncrono (Cartão),Média,Expresso,Impecável,Desktop,Comercial,Conta Antiga,Não
+Assíncrono (Boleto),Alta,Longo,Aceitável,Mobile Web,Madrugada,Nova Conta,Sim
+Assíncrono (Boleto),Alta,Longo,Aceitável,Mobile App,Madrugada,Visitante,Sim
+Assíncrono (Boleto),Média,Expresso,Aceitável,Desktop,Comercial,Visitante,Sim
+Síncrono (Pix),Média,Padrão,Risco,Mobile App,Madrugada,Visitante,Sim
+Assíncrono (Boleto),Alta,Padrão,Aceitável,Mobile Web,Madrugada,Visitante,Não
+Síncrono (Pix),Alta,Longo,Aceitável,Mobile App,Madrugada,Visitante,Sim
+Síncrono (Pix),Média,Expresso,Aceitável,Desktop,Madrugada,Visitante,Não
+Síncrono (Pix),Baixa,Expresso,Impecável,Mobile App,Noturno,Nova Conta,Não
+Síncrono (Cartão),Média,Expresso,Impecável,Mobile App,Noturno,Conta Antiga,Não
+Assíncrono (Boleto),Média,Longo,Aceitável,Mobile App,Madrugada,Visitante,Não
+Assíncrono (Boleto),Média,Expresso,Aceitável,Mobile Web,Comercial,Visitante,Não
+Assíncrono (Boleto),Alta,Longo,Aceitável,Mobile Web,Noturno,Nova Conta,Sim
+Síncrono (Pix),Alta,Longo,Risco,Mobile Web,Madrugada,Nova Conta,Sim
+Síncrono (Pix),Baixa,Padrão,Impecável,Desktop,Noturno,Nova Conta,Não
+Assíncrono (Boleto),Alta,Longo,Risco,Mobile Web,Noturno,Nova Conta,Sim
+Assíncrono (Boleto),Média,Padrão,Aceitável,Mobile Web,Madrugada,Visitante,Não
+Síncrono (Pix),Alta,Longo,Risco,Mobile Web,Madrugada,Nova Conta,Não
+Síncrono (Cartão),Baixa,Longo,Impecável,Mobile Web,Comercial,Nova Conta,Não
+Assíncrono (Boleto),Alta,Padrão,Risco,Mobile App,Madrugada,Visitante,Sim
+Assíncrono (Boleto),Média,Longo,Risco,Mobile Web,Madrugada,Nova Conta,Sim
+Síncrono (Pix),Alta,Expresso,Risco,Mobile Web,Comercial,Visitante,Não
+Síncrono (Pix),Baixa,Longo,Risco,Desktop,Noturno,Nova Conta,Sim
+Assíncrono (Boleto),Alta,Longo,Impecável,Mobile Web,Madrugada,Nova Conta,Sim
+Síncrono (Cartão),Média,Expresso,Impecável,Desktop,Noturno,Conta Antiga,Não
+Síncrono (Cartão),Baixa,Expresso,Aceitável,Mobile App,Comercial,Conta Antiga,Não
+Assíncrono (Boleto),Média,Longo,Aceitável,Desktop,Madrugada,Visitante,Não
+Síncrono (Pix),Baixa,Padrão,Risco,Mobile Web,Noturno,Nova Conta,Sim
+Síncrono (Cartão),Baixa,Padrão,Aceitável,Desktop,Noturno,Visitante,Não
+Síncrono (Pix),Baixa,Padrão,Impecável,Desktop,Comercial,Nova Conta,Não
+Assíncrono (Boleto),Alta,Padrão,Risco,Mobile Web,Madrugada,Visitante,Sim
+Síncrono (Cartão),Baixa,Expresso,Impecável,Mobile App,Comercial,Conta Antiga,Sim
+Assíncrono (Boleto),Alta,Longo,Aceitável,Mobile Web,Madrugada,Visitante,Sim
+Síncrono (Cartão),Média,Expresso,Aceitável,Desktop,Comercial,Conta Antiga,Não
+Síncrono (Cartão),Média,Expresso,Impecável,Desktop,Comercial,Nova Conta,Sim
+Síncrono (Pix),Alta,Longo,Aceitável,Mobile Web,Madrugada,Nova Conta,Não
+Síncrono (Pix),Alta,Padrão,Risco,Mobile Web,Madrugada,Nova Conta,Sim
+Síncrono (Pix),Alta,Padrão,Aceitável,Mobile Web,Comercial,Visitante,Sim
+Síncrono (Cartão),Média,Padrão,Risco,Mobile App,Comercial,Conta Antiga,Não
+Síncrono (Pix),Baixa,Expresso,Aceitável,Desktop,Noturno,Visitante,Sim
+Assíncrono (Boleto),Alta,Longo,Risco,Desktop,Noturno,Conta Antiga,Não
