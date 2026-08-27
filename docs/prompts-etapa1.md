@@ -1,4 +1,11 @@
-# Etapa 1 - Escolha do domínio e modelagem do problema
+# Documentação do diálogo com a IA - Etapa 1: Escolha do domínio e modelagem do problema
+
+**Disciplina:** Mineração de Dados  
+**Atividade:** ATIVIDADE PRÁTICA 1 — Algoritmo Classificador Bayesiano  
+**Responsável:** Mateus de Souza Arruda & Lorena Strobel Campos  
+**Data:** 23/08/2026  
+
+---
 
 1. Qual é o rótulo alvo (o que será classificado como sim ou não)?
 2. Quais são as 6 a 8 features mais relevantes para esse domínio?
