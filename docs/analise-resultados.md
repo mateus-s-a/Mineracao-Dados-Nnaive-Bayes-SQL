@@ -19,7 +19,7 @@ Foram executados **5 casos de teste** cobrindo perfis pragmáticos (baixo risco)
 
 ## 2. Resposta às Perguntas Obrigatórias do Enunciado
 
-### 2.1 Pergunta 1: O modelo classificou corretamente conforme a intuição sobre o domínio?
+### 2.1 Pergunta 1: O modelo classificou corretamente conforme sua intuição sobre o domínio?
 
 **Resposta:** **Sim, perfeitamente.** As classificações preditas pelo modelo em SQL demonstraram total aderência à psicologia do consumidor no comércio eletrônico e às hipóteses estabelecidas na Etapa 1:
 
@@ -59,7 +59,7 @@ Valores positivos indicam que a característica impulsiona a probabilidade de ca
 
 ---
 
-### 2.3 Pergunta 3: O que acontece quando se testa um perfil com valores não vistos no treinamento?
+### 2.3 Pergunta 3: O que acontece quando você testa um perfil com valores não vistos no treinamento?
 
 **Resposta:** Em um classificador Naive Bayes tradicional sem suavização, se uma determinada categoria $v$ nunca tiver sido observada para a classe $C$ na base de treinamento ($k = 0$), a verossimilhança $P(F=v \mid C) = \frac{0}{N_C} = 0$. Na multiplicação das probabilidades, esse zero "zeraria" todo o score da classe, independentemente de quão favoráveis fossem todas as outras 6 features (problema da probabilidade zero).
 

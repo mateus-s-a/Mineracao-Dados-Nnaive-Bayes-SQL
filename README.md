@@ -19,7 +19,12 @@ Implementação completa da **Atividade Prática 1 — Algoritmo Classificador B
 
 A atividade consiste em modelar, implementar e avaliar um classificador **Naive Bayes** aplicado a um problema real de **classificação binária no e-commerce** (previsão de cancelamento de pedidos no checkout).
 
-O trabalho contempla todo o fluxo de desenvolvimento de uma solução de mineração de dados (KDD): definição do problema, seleção e discretização de 7 features preditivas, geração e validação de 120 registros de treinamento, implementação do algoritmo em SQL relacional e análise crítica dos resultados.
+O trabalho contempla todo o fluxo de desenvolvimento de uma solução de mineração de dados (KDD - Descoberta de Conhecimento em Bancos de Dados):
+- definição do problema,
+- seleção e discretização de 7 features preditivas,
+- geração e validação de 120 registros de treinamento,
+- implementação do algoritmo em SQL relacional e
+- análise crítica dos resultados.
 
 A implementação do classificador é realizada em **SQL nativo** utilizando **SQLite**, englobando:
 
@@ -137,8 +142,8 @@ Todos os scripts utilizam **exclusivamente a biblioteca padrão do Python 3** (m
 
 ### Diretório `sql/` (Algoritmo e Banco de Dados)
 
-* **`sql/schema.sql`:** Script DDL (Data Definition Language) de criação da tabela `treino` no SQLite. Inclui restrições `CHECK (...)` para cada uma das 7 colunas, garantindo que o banco de dados rejeite valores fora do domínio discreto oficial.
-* **`sql/dados.sql`:** Script DML (Data Manipulation Language) contendo as 120 instruções `INSERT INTO treino (...)` para popular a tabela relacional.
+* **`sql/schema.sql`:** Script DDL (*Data Definition Language*) de criação da tabela `treino` no SQLite. Inclui restrições `CHECK (...)` para cada uma das 7 colunas, garantindo que o banco de dados rejeite valores fora do domínio discreto oficial.
+* **`sql/dados.sql`:** Script DML (*Data Manipulation Language*) contendo as 120 instruções `INSERT INTO treino (...)` para popular a tabela relacional.
 * **`sql/classificador.sql`:** O script SQL principal desenvolvido para a Etapa 3. Utiliza 7 Common Table Expressions (`WITH CTEs`) para calcular:
   - Probabilidades a priori $P(\text{classe})$;
   - Vocabulário $V_i$ por feature;
