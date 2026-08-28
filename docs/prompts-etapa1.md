@@ -172,7 +172,7 @@ Antes de definirmos os perfis, é preciso estabelecer que:
 
 **Exemplos de Perfis de Pedido (Casos de Teste)**
 
-Estes três cenários atendem ao requisito da Etapa 4, fornecendo testes práticos para a sua implementação.
+Estes três cenários atendem ao requisito da pergunta 4, fornecendo testes práticos para a sua implementação.
 
 **1. Perfil de Baixo Risco de Cancelamento**
 * **Características:** Pagamento Síncrono (Cartão) + Frete Baixo + Prazo Expresso + Conta Antiga + Histórico Impecável + Desktop + Horário Comercial.

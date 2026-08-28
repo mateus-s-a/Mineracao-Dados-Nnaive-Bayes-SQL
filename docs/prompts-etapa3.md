@@ -3,7 +3,7 @@
 **Disciplina:** Mineração de Dados  
 **Atividade:** ATIVIDADE PRÁTICA 1 — Algoritmo Classificador Bayesiano  
 **Responsável:** Mateus de Souza Arruda & Lorena Strobel Campos  
-**Data:** 25/08/2026  
+**Data:** 26/08/2026  
 
 ---
 
